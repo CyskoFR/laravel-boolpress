@@ -49609,9 +49609,9 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/samuelemadrigali/Desktop/boolean/classe-63/esercizi/laravel-blog/resources/js/app.js */"./resources/js/app.js");
-__webpack_require__(/*! /Users/samuelemadrigali/Desktop/boolean/classe-63/esercizi/laravel-blog/resources/sass/app.scss */"./resources/sass/app.scss");
-module.exports = __webpack_require__(/*! /Users/samuelemadrigali/Desktop/boolean/classe-63/esercizi/laravel-blog/resources/sass/guest/front.scss */"./resources/sass/guest/front.scss");
+__webpack_require__(/*! E:\Boolean\Repository GitHub\laravel-boolpress\resources\js\app.js */"./resources/js/app.js");
+__webpack_require__(/*! E:\Boolean\Repository GitHub\laravel-boolpress\resources\sass\app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! E:\Boolean\Repository GitHub\laravel-boolpress\resources\sass\guest\front.scss */"./resources/sass/guest/front.scss");
 
 
 /***/ })
