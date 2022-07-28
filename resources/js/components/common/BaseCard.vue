@@ -1,11 +1,11 @@
 <template>
-    <div class="card">
-        <h3>{{title}}</h3>
-        <div class="card-content">
-            {{content}}
-        </div>
-        <router-link :to="{ name: 'single-post', params: {slug: slug} }">Leggi di più</router-link>
+  <div class="card">
+    <h3>{{title}}</h3>
+    <div class="card-content">
+        {{content}}
     </div>
+    <router-link :to="{ name: 'single-post', params: {slug: slug} }">Leggi di più</router-link>
+  </div>
 </template>
 
 <script>

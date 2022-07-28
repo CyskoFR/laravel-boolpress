@@ -12,12 +12,12 @@
             </div>
             <table class="table table-striped">
                 <thead>
-                    <tr>
-                        <th scope="col">#</th>
-                        <th scope="col">Nome</th>
-                        <th scope="col">Slug</th>
-                        <th scope="col">Azioni</th>
-                    </tr>
+                  <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Nome</th>
+                    <th scope="col">Slug</th>
+                    <th scope="col">Azioni</th>
+                  </tr>
                 </thead>
                 <tbody>
                     @foreach ($categories as $category)
@@ -37,7 +37,7 @@
                     </tr>
                     @endforeach
                 </tbody>
-            </table>
+              </table>
         </div>
     </div>
 </div>

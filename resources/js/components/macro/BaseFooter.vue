@@ -1,9 +1,9 @@
 <template>
-    <footer>
-        <div class="container">
-            Made with ❤️ classe 63
-        </div>
-    </footer>
+  <footer>
+    <div class="container">
+        Made with ❤️ classe 63
+    </div>
+  </footer>
 </template>
 
 <script>
@@ -13,4 +13,5 @@ export default {
 </script>
 
 <style>
+
 </style>

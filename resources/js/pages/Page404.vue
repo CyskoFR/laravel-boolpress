@@ -1,10 +1,10 @@
 <template>
-    <div class="container">
-        <h2>Page not found</h2>
-        <p>
-            <router-link :to="{name: 'home'}">Torna all'home page</router-link>
-        </p>
-    </div>
+  <div class="container">
+    <h2>Page not found</h2>
+    <p>
+        <router-link :to="{name: 'home'}">Torna all'home page</router-link>
+    </p>
+  </div>
 </template>
 
 <script>
@@ -14,4 +14,5 @@ export default {
 </script>
 
 <style>
+
 </style>
